@@ -1,0 +1,22 @@
+{
+    "game_ver": {
+        "1.0.140.25370": "v1.0.0"
+    },
+    "le_ver": {
+        "silver": {
+            "ver": "v27.1.0",
+            "link": "https://www.patreon.com/xAranaktu/posts/fc-26-live-v26-3-166271704"
+        },
+         "bronze": {
+            "ver": "v27.1.0",
+            "link": "https://www.patreon.com/xAranaktu/posts/fc-26-live-v26-3-166271704"
+        },
+        "public": {
+            "ver": "v27.1.0",
+            "link": "https://www.patreon.com/xAranaktu/posts/fc-26-live-v26-3-166271704"
+        }
+    },
+    "compatibility": {
+        "1.0.140.25370": ["v27.1.0", "v27.1.0"]
+    }
+}
