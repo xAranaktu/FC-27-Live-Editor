@@ -1,0 +1,16 @@
+v27.1.1:
+    - Player Editor now support editing player in player career mode
+    - Added gameplay speed to speedhack
+    - Added to "Miscellaneous Features":
+        - Disable Unexpected Events (and press conferences)
+        - Player Career (Reputation, Funds, Wage, Attribute Points, Personality, Unlock Playstyles Slots)
+
+v27.1.0:
+    - First working version includes:
+        - Basic Player Editor (Editing player attributes, positions, playstyles etc. in manager career mode only))
+        - Basic Team Editor
+        - Basic Manager Editor
+        - Option to generate youth scout reports
+        - Legacy File Browser
+        - Speedhack (In menu, no gameplay yet)
+        - LUA Engine
