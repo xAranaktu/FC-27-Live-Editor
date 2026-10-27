@@ -1,3 +1,38 @@
+v27.1.7:
+    - Added to Player Editor:
+        - Is Transfer/Loan Listed
+    - Added to Team Editor:
+        - League Standings
+        - Fixtures
+        - Match-fixing
+    - Added to "Miscellaneous Features":
+        - Match Setup: 
+            - Override Stadium, Weather, Fixture Time, Crowd Attendance
+    - Fixed transfer bans not working on v1.1.0
+
+v27.1.6:
+    - Added to Player Editor:
+        - Option picker for personality
+    - Added to Team Editor:
+        - Transfer Bans
+        - jerseynameoutlinewidth & jerseynameoutlinecolor
+    - Added to "Miscellaneous Features"
+        - Reveal Player Data
+        - Contract Objectives Bypass (Player Career)
+    - Added Akinfenwa bodytype to bodytype option picker
+    - Added additional input blocker preventing the game from opening EA Music when Live Editor's UI is visible
+    - Fixed problem with autorun lua scripts using career mode events not being triggered properly
+
+
+v27.1.5:
+    - Added to Player Editor:
+        - Contract role
+    - Added to Team Editor:
+        - Create Job Offer
+    - Fixed save data corruptions cased by undo transfers option
+    - Fixed loading info about player injury status
+    - Fixed crash occurring when loading some of the legacy files
+
 v27.1.4:
     - Added to Player Editor:
         - Generate Miniface
