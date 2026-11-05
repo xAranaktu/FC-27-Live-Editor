@@ -1,3 +1,23 @@
+v27.1.8:
+    - Added to Player Editor:
+        - Season Statistics
+        - Team selection bias
+        - Development Exp Bonus
+        - Development Exp Multiplier
+        - Development No Decline
+    - Added to Manager Editor:
+        - Transfer Manager
+        - Fire Manager
+        - Job Security
+        - Unsackable
+    - Added to "Miscellaneous Features" -> "Career Mode" -> "Manager":
+        - Disable Manager Market
+    - Added to Miscellaneous Features -> Youth Academy:
+        - Allow multiple scouts in the same country
+        - Force player tier
+    - Removing player from transfer/loan list will now also clear his transfer request status
+    - Fixed game crash occurring when trying to delete suspension for a player who is suspended in multiple competitions
+
 v27.1.7:
     - Added to Player Editor:
         - Is Transfer/Loan Listed
