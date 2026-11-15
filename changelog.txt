@@ -1,3 +1,22 @@
+v27.2.0:
+    - Added to Player Editor:
+        - Never Tired
+    - Added "Always allow transfer & loan approach" to "Miscellaneous Features->Transfer HUB"
+    - Added to "Miscellaneous Features" -> "Gameplay":
+        - Match Time
+        - Unlimited/Disabled Subs
+        - Tired/Never Tired Players
+        - Goals Scored
+        - CPU vs CPU
+        - Don't Pause on AltTab
+    - Fixed invalid pointer for attribute points in player career
+    - Fixed loading youth academy players in team editor
+
+v27.1.9:
+    - Work with FC 27 v1.2.0
+    - Added to Team Editor:
+        - Formation Editor
+
 v27.1.8:
     - Added to Player Editor:
         - Season Statistics
